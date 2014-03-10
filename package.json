@@ -1,0 +1,29 @@
+{
+  "family": "arale",
+  "name": "xuan",
+  "version": "1.0.0",
+  "description": "xuan zhi js",
+  "homepage": "https://github.com/ybbshanshan/Xuan-js",
+  "author": "yubb",
+  "maintainers": [
+    "yubb"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ybbshanshan/Xuan-js.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": [
+      "xuan.js",
+      "xuan.css"
+    ],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
